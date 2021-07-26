@@ -1,0 +1,8 @@
+{
+  "name": "DiscoveryApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "518ff33a"
+}

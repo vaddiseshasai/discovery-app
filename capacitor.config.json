@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "DiscoveryApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
